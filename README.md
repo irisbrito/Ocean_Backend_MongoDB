@@ -13,7 +13,7 @@ Projeto original do prof Paulo Salvatore: https://github.com/paulosalvatore/Ocea
 1. Express
 2. Nodemon
 3. Body-parser
-4. MongoDB driver (ao invés do Mongoboose)
+4. MongoDB driver (ao invés do Mongoose)
 
 
 # Instalação e configuração do projeto
